@@ -1,0 +1,11 @@
+/*
+---
+name: Request.HTML - jsFiddle/Github openlayers vector demo
+description: jsFiddle demo hosted on Github using HTML Request to get kml data
+authors:
+  - Glenn Plas
+resources:
+  -
+*/
+
+<p>This demo shows an issue with multiple hover controls .</p> 
