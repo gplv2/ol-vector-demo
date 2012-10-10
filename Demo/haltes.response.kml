@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Laatste Posities</name>
+<open>1</open>
+<description><![CDATA[Laatste Posities]]></description>
+<Folder>
+<visibility>1</visibility>
+<description><![CDATA[Laatste Posities]]></description>
+<name><![CDATA[depolder]]></name>
+<Placemark id="po_1">
+<TimeStamp><when>2012-10-10T13:17:35Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[2]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 47]]></description>
+<heading>2.56</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:35Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4215183333333,51.244061666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_2">
+<TimeStamp><when>2012-10-10T13:17:45Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[50]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 11 | Gain : 41]]></description>
+<heading>307.2</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:45Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.27755,51.354866666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_3">
+<TimeStamp><when>2012-10-10T13:25:52Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[25]]></name>
+<description><![CDATA[Richting veranderd - Sat: View: 12 | Fix: 4 | Gain : 40]]></description>
+<heading></heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:52Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4009633333333,51.328655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_4">
+<TimeStamp><when>2012-10-10T13:25:55Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[58]]></name>
+<description><![CDATA[Afgelegde afstand - Sat: View: 12 | Fix: 10 | Gain : 45]]></description>
+<heading>10.24</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>57.48608</speed>
+<speed_level>7</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:55Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.3783383333333,51.137885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_5">
+<TimeStamp><when>2012-10-10T13:17:55Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[16]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 47]]></description>
+<heading>56.32</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:55Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.5865883333333,51.292975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_6">
+<TimeStamp><when>2012-10-10T13:25:46Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[56]]></name>
+<description><![CDATA[Afgelegde afstand - Sat: View: 12 | Fix: 11 | Gain : 46]]></description>
+<heading>245.76</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>21.33504</speed>
+<speed_level>3</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:46Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.5570033333333,51.232668333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_7">
+<TimeStamp><when>2012-10-10T13:25:45Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[49]]></name>
+<description><![CDATA[Afgelegde afstand - Sat: View: 12 | Fix: 10 | Gain : 39]]></description>
+<heading>212.48</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>29.03936</speed>
+<speed_level>3</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:45Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.492535,51.290625,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_8">
+<TimeStamp><when>2012-10-10T13:20:39Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[6]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 3 | Gain : 20]]></description>
+<heading>220.16</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>13.63072</speed>
+<speed_level>2</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:20:39Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.447615,51.265928333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_9">
+<TimeStamp><when>2012-10-10T13:24:55Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[13]]></name>
+<description><![CDATA[Richting veranderd - Sat: View: 12 | Fix: 3 | Gain : 42]]></description>
+<heading></heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:24:55Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4576016666667,51.222343333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_10">
+<TimeStamp><when>2012-10-10T13:25:40Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[49]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 43]]></description>
+<heading>17.92</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:40Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.42179,51.244076666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_11">
+<TimeStamp><when>2012-10-10T13:25:33Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[52]]></name>
+<description><![CDATA[Stop - Sat: View: 12 | Fix: 9 | Gain : 43]]></description>
+<heading>58.88</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>1.18528</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:33Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.422125,51.243853333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_12">
+<TimeStamp><when>2012-10-10T13:17:50Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[8]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 11 | Gain : 48]]></description>
+<heading>355.84</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:50Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.288,51.31312,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_13">
+<TimeStamp><when>2012-10-10T13:24:51Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[51]]></name>
+<description><![CDATA[Richting veranderd - Sat: View: 12 | Fix: 9 | Gain : 45]]></description>
+<heading>238.08</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>21.92768</speed>
+<speed_level>3</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:24:51Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4218633333333,51.243411666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_14">
+<TimeStamp><when>2012-10-10T13:25:43Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[11]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 11 | Gain : 49]]></description>
+<heading>281.6</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:43Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.9373083333333,50.807685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_15">
+<TimeStamp><when>2012-10-10T13:21:56Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[3]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 38]]></description>
+<heading>194.56</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:21:56Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4218316666667,51.244101666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_16">
+<TimeStamp><when>2012-10-10T13:25:39Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[12]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 9 | Gain : 45]]></description>
+<heading>227.84</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>2.9632</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:39Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.42201,51.243525,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_17">
+<TimeStamp><when>2012-10-10T13:25:22Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[55]]></name>
+<description><![CDATA[Afgelegde afstand - Sat: View: 12 | Fix: 4 | Gain : 52]]></description>
+<heading></heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:22Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.7214616666667,51.325391666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_18">
+<TimeStamp><when>2012-10-10T13:19:12Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[7]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 39]]></description>
+<heading>0</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:19:12Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.4216166666667,51.243966666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_19">
+<TimeStamp><when>2012-10-10T13:17:15Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[51]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 11 | Gain : 41]]></description>
+<heading>0</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:15Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.421725,51.24406,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_20">
+<TimeStamp><when>2012-10-10T13:20:55Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[22]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 46]]></description>
+<heading>248.32</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:20:55Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.328325,51.368136666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_21">
+<TimeStamp><when>2012-10-10T13:17:41Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[54]]></name>
+<description><![CDATA[Stop - Sat: View: 12 | Fix: 10 | Gain : 46]]></description>
+<heading>345.6</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:17:41Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.438375,51.140866666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_22">
+<TimeStamp><when>2012-10-10T13:23:12Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[51]]></name>
+<description><![CDATA[Positie - Sat: View: 12 | Fix: 10 | Gain : 45]]></description>
+<heading>135.68</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>0</speed>
+<speed_level>1</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:23:12Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.256155,51.36027,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_23">
+<TimeStamp><when>2012-10-10T13:21:32Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[52]]></name>
+<description><![CDATA[Richting veranderd - Sat: View: 12 | Fix: 10 | Gain : 33]]></description>
+<heading>343.04</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>10.66752</speed>
+<speed_level>2</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:21:32Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.42201,51.243448333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_24">
+<TimeStamp><when>2012-10-10T13:25:50Z</when></TimeStamp>
+<TimeSpan><begin>2012-10-10T13:17:35Z</begin>
+<end>2012-10-10T13:40:50Z</end></TimeSpan>
+<name><![CDATA[59]]></name>
+<description><![CDATA[Richting veranderd - Sat: View: 12 | Fix: 10 | Gain : 39]]></description>
+<heading>232.96</heading>
+<range>150</range>
+<tilt>60</tilt>
+<tessellate>1</tessellate>
+<distance></distance>
+<speed>17.7792</speed>
+<speed_level>2</speed_level>
+<event></event>
+<point_date_iso>2012-10-10T13:25:50Z</point_date_iso>
+<visibility>1</visibility>
+<styleUrl>#busIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.8450516666667,51.161431666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

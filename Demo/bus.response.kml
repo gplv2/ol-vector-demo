@@ -1,0 +1,5072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Haltes</name>
+<open>1</open>
+<description><![CDATA[Haltes]]></description>
+<Style id="HalteIcon">
+<IconStyle>
+<Icon>
+<href>http://live.synctrace.com/icons/busstopblue.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<width>1</width>
+</LineStyle>
+</Style>
+<Folder>
+<visibility>1</visibility>
+<description><![CDATA[Haltes]]></description>
+<name><![CDATA[Alle Lijnen]]></name>
+<Placemark id="po_1">
+<name><![CDATA[BASF HOOFDINGANG]]></name>
+<description><![CDATA[BASF HOOFDINGANG]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.278595,51.354879,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_2">
+<name><![CDATA[Kapelstraat 'Hemelrijkstraat']]></name>
+<description><![CDATA[Kapelstraat 'Hemelrijkstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.277015,51.134124,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_3">
+<name><![CDATA[Kruibekestraat 'Dorp']]></name>
+<description><![CDATA[Kruibekestraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.298472,51.147748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_4">
+<name><![CDATA[Bazelstraat 'Mercatorstraat']]></name>
+<description><![CDATA[Bazelstraat 'Mercatorstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.310575,51.167343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_5">
+<name><![CDATA[O.L.Vrouwplein 'Dorp']]></name>
+<description><![CDATA[O.L.Vrouwplein 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.312806,51.170895,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_6">
+<name><![CDATA[Burchtstraat 'Scheldelei']]></name>
+<description><![CDATA[Burchtstraat 'Scheldelei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.315896,51.176384,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_7">
+<name><![CDATA[Kruibeeksesteenweg 'Veldstraat']]></name>
+<description><![CDATA[Kruibeeksesteenweg 'Veldstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.328599,51.197741,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_8">
+<name><![CDATA[Heirbaan 'Kampstraat']]></name>
+<description><![CDATA[Heirbaan 'Kampstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.335637,51.200645,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_9">
+<name><![CDATA[Dorpstraat 'Kerkplein']]></name>
+<description><![CDATA[Dorpstraat 'Kerkplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.345937,51.201775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_10">
+<name><![CDATA[Frederik Van Eedenplein 'Van Eedenplein - Perron 1a']]></name>
+<description><![CDATA[Frederik Van Eedenplein 'Van Eedenplein - Perron 1a']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.386535,51.220594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_11">
+<name><![CDATA[Blancefloerlaan 'Halewijn']]></name>
+<description><![CDATA[Blancefloerlaan 'Halewijn']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.379153,51.220594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_12">
+<name><![CDATA[Verbrandendijk "Van Goey"]]></name>
+<description><![CDATA[Verbrandendijk "Van Goey"]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.334607,51.219572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_13">
+<name><![CDATA[Dorp West 'Dorp']]></name>
+<description><![CDATA[Dorp West 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.325683,51.219216,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_14">
+<name><![CDATA[Dorp West 'Hof Ter Rijen']]></name>
+<description><![CDATA[Dorp West 'Hof Ter Rijen']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.318385,51.219035,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_15">
+<name><![CDATA[Grote Baan 'Burggravenlaan']]></name>
+<description><![CDATA[Grote Baan 'Burggravenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.293151,51.220862,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_16">
+<name><![CDATA[Grote Baan 'Spoorweglaan']]></name>
+<description><![CDATA[Grote Baan 'Spoorweglaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.325683,51.219216,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_17">
+<name><![CDATA[Schoolstraat 75/ Dambrugstraat]]></name>
+<description><![CDATA[Schoolstraat 75/ Dambrugstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.279146,51.22613,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_18">
+<name><![CDATA[Oude Godstraat 'Molenlei']]></name>
+<description><![CDATA[Oude Godstraat 'Molenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.444281,51.162526,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_19">
+<name><![CDATA[Drie Eikenstraat 'Hof Ter Linden']]></name>
+<description><![CDATA[Drie Eikenstraat 'Hof Ter Linden']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.443519,51.156847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_20">
+<name><![CDATA[Drie Eikenstraat 'Baron de Celleslaan']]></name>
+<description><![CDATA[Drie Eikenstraat 'Baron de Celleslaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434679,51.155777,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_21">
+<name><![CDATA[Prins Boudewijnlaan 'Den Eeckhofstraat']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Den Eeckhofstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.429185,51.161382,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_22">
+<name><![CDATA[Prins Boudewijnlaan 'Kerk']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.426514,51.166677,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_23">
+<name><![CDATA[Prins Boudewijnlaan 'Van Dunlaan']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Van Dunlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.426138,51.17228,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_24">
+<name><![CDATA[Grote Steenweg/ Fr. Birontlaan]]></name>
+<description><![CDATA[Grote Steenweg/ Fr. Birontlaan]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432329,51.181024,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_25">
+<name><![CDATA[Grote Steenweg 'Pulhof']]></name>
+<description><![CDATA[Grote Steenweg 'Pulhof']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.431278,51.183277,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_26">
+<name><![CDATA[Grote Steenweg  'Koninklijkelaan' ]]></name>
+<description><![CDATA[Grote Steenweg  'Koninklijkelaan' ]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.42601,51.188745,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_27">
+<name><![CDATA[Binnensingel, halte station-Berchem-Post]]></name>
+<description><![CDATA[Binnensingel, halte station-Berchem-Post]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.433568,51.200107,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_28">
+<name><![CDATA[Paleisstraat 79]]></name>
+<description><![CDATA[Paleisstraat 79]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.398501,51.206547,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_29">
+<name><![CDATA[Justitiestraat 61 thv Justitiepaleis]]></name>
+<description><![CDATA[Justitiestraat 61 thv Justitiepaleis]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.404488,51.208752,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_30">
+<name><![CDATA[Van Breestraat 13/M. Henriettalei]]></name>
+<description><![CDATA[Van Breestraat 13/M. Henriettalei]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.410174,51.211225,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_31">
+<name><![CDATA[Quellinstraat 'Quellin']]></name>
+<description><![CDATA[Quellinstraat 'Quellin']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.415925,51.216172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_32">
+<name><![CDATA[Osystraat 'F. Rooseveltplaats perron 25']]></name>
+<description><![CDATA[Osystraat 'F. Rooseveltplaats perron 25']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.417818,51.220261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_33">
+<name><![CDATA[Sint-Jansplein 'Sint-Jansplein']]></name>
+<description><![CDATA[Sint-Jansplein 'Sint-Jansplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.416997,51.224921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_34">
+<name><![CDATA[Ellermansstraat 'Noorderplaats']]></name>
+<description><![CDATA[Ellermansstraat 'Noorderplaats']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.41498,51.229839,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_35">
+<name><![CDATA[Noorderlaan 'Manchesterlaan']]></name>
+<description><![CDATA[Noorderlaan 'Manchesterlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.420409,51.254972,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_36">
+<name><![CDATA[Hingenesteenweg 'Station']]></name>
+<description><![CDATA[Hingenesteenweg 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.240365,51.100989,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_37">
+<name><![CDATA[Velle 'Velle Kerk']]></name>
+<description><![CDATA[Velle 'Velle Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.207671,51.160695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_38">
+<name><![CDATA[Grote Baan 'P. Copstraat']]></name>
+<description><![CDATA[Grote Baan 'P. Copstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.19529,51.181065,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_39">
+<name><![CDATA[Albert Panisstraat 'Vijfstraten']]></name>
+<description><![CDATA[Albert Panisstraat 'Vijfstraten']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.241896,51.205808,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_40">
+<name><![CDATA[Oude Zandstraat 'Markt']]></name>
+<description><![CDATA[Oude Zandstraat 'Markt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.255264,51.212529,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_41">
+<name><![CDATA[Kasteeldreef 196/Halfdreef]]></name>
+<description><![CDATA[Kasteeldreef 196/Halfdreef]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.253654,51.222368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_42">
+<name><![CDATA[Melseledijk/ Koolputstraat]]></name>
+<description><![CDATA[Melseledijk/ Koolputstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.270492,51.233547,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_43">
+<name><![CDATA[N171 (Prins Boudewijnlaan) 'Sint-Rita college']]></name>
+<description><![CDATA[N171 (Prins Boudewijnlaan) 'Sint-Rita college']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.43563,51.129869,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_44">
+<name><![CDATA[Carpool E19]]></name>
+<description><![CDATA[Carpool E19]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.431424,51.12626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_45">
+<name><![CDATA[Prins Boudewijnlaan 'Groeningenlei']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Groeningenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.437733,51.141017,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_46">
+<name><![CDATA[Krijgsbaan (voorraan parking gemeente)]]></name>
+<description><![CDATA[Krijgsbaan (voorraan parking gemeente)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.446623,51.172859,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_47">
+<name><![CDATA[Krijgsbaan/Ijzerenweg]]></name>
+<description><![CDATA[Krijgsbaan/Ijzerenweg]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.453869,51.175038,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_48">
+<name><![CDATA[Krijgsbaan/ Massive/ Esso]]></name>
+<description><![CDATA[Krijgsbaan/ Massive/ Esso]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.459362,51.17633,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_49">
+<name><![CDATA[Frans Beirenslaan 'Wenigerstraat']]></name>
+<description><![CDATA[Frans Beirenslaan 'Wenigerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.482021,51.197633,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_50">
+<name><![CDATA[Autolei 'Fort II straat']]></name>
+<description><![CDATA[Autolei 'Fort II straat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.487951,51.205378,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_51">
+<name><![CDATA[Venusstraat/ Parochiehuis]]></name>
+<description><![CDATA[Venusstraat/ Parochiehuis]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.598272,51.213148,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_52">
+<name><![CDATA[Oelgemsteenweg 'Rozenhoek']]></name>
+<description><![CDATA[Oelgemsteenweg 'Rozenhoek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.592435,51.229893,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_53">
+<name><![CDATA[Turnhoutsebaan 'Wisselstraat']]></name>
+<description><![CDATA[Turnhoutsebaan 'Wisselstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.587135,51.242266,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_54">
+<name><![CDATA[Turnhoutsebaan 'Brasschaatsebaan']]></name>
+<description><![CDATA[Turnhoutsebaan 'Brasschaatsebaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.577549,51.238515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_55">
+<name><![CDATA[Turnhoutsebaan 'Termalenbaan']]></name>
+<description><![CDATA[Turnhoutsebaan 'Termalenbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.571541,51.236846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_56">
+<name><![CDATA[Turnhoutsebaan 'Vaartdijk']]></name>
+<description><![CDATA[Turnhoutsebaan 'Vaartdijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.529291,51.228442,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_57">
+<name><![CDATA[Turnhoutsebaan 'Dorp']]></name>
+<description><![CDATA[Turnhoutsebaan 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.521947,51.227478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_58">
+<name><![CDATA[Merksemsebaan 'Bergenstraat']]></name>
+<description><![CDATA[Merksemsebaan 'Bergenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.514126,51.229167,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_59">
+<name><![CDATA[Bisschoppenhoflaan 'Bosuil ']]></name>
+<description><![CDATA[Bisschoppenhoflaan 'Bosuil ']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.465063,51.23393,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_60">
+<name><![CDATA[Herentalsebaan 'J. Reussenslei']]></name>
+<description><![CDATA[Herentalsebaan 'J. Reussenslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.490705,51.199328,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_61">
+<name><![CDATA[Jozef Reusenslei 'L. Janssenstraat']]></name>
+<description><![CDATA[Jozef Reusenslei 'L. Janssenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.489052,51.195374,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_62">
+<name><![CDATA[De Robianostraat 'Dorp']]></name>
+<description><![CDATA[De Robianostraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.485619,51.194083,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_63">
+<name><![CDATA[De Robianostraat 'Kerkhof']]></name>
+<description><![CDATA[De Robianostraat 'Kerkhof']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.48078,51.194789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_64">
+<name><![CDATA[Borsbeeksesteenweg 'Fort III-straat']]></name>
+<description><![CDATA[Borsbeeksesteenweg 'Fort III-straat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.473099,51.194675,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_65">
+<name><![CDATA[Eksterlaar 'de Villegasplein']]></name>
+<description><![CDATA[Eksterlaar 'de Villegasplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.468517,51.199462,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_66">
+<name><![CDATA[Boekenberglei 'Jozef Verboven']]></name>
+<description><![CDATA[Boekenberglei 'Jozef Verboven']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.460739,51.200417,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_67">
+<name><![CDATA[Sint-Rochusstraat 'Sint-Rochuskerk']]></name>
+<description><![CDATA[Sint-Rochusstraat 'Sint-Rochuskerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.464188,51.204742,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_68">
+<name><![CDATA[Herentalsebaan 'Waterbaan']]></name>
+<description><![CDATA[Herentalsebaan 'Waterbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.464494,51.207858,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_69">
+<name><![CDATA[Herentalsebaan 'Mestputteke']]></name>
+<description><![CDATA[Herentalsebaan 'Mestputteke']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.459543,51.209542,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_70">
+<name><![CDATA[Hoek Luitenant Lippenslaan/ Juul Grietensstraat]]></name>
+<description><![CDATA[Hoek Luitenant Lippenslaan/ Juul Grietensstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451426,51.210116,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_71">
+<name><![CDATA[Luitenant Lippenslaan 'Sint-Erasmusziekenhuis' ]]></name>
+<description><![CDATA[Luitenant Lippenslaan 'Sint-Erasmusziekenhuis' ]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.446175,51.208453,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_72">
+<name><![CDATA[Dorpsstraat 'Kerk']]></name>
+<description><![CDATA[Dorpsstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.679339,51.346986,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_73">
+<name><![CDATA[Heiken 'Leemstraat']]></name>
+<description><![CDATA[Heiken 'Leemstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.660542,51.350785,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_74">
+<name><![CDATA[Lessiusstraat 'Schoolstraat']]></name>
+<description><![CDATA[Lessiusstraat 'Schoolstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.644127,51.351321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_75">
+<name><![CDATA[Gasthuisstraat 'Biest']]></name>
+<description><![CDATA[Gasthuisstraat 'Biest']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.63931,51.35035,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_76">
+<name><![CDATA[Kampweg/Achter d'Hoven/De Bijl]]></name>
+<description><![CDATA[Kampweg/Achter d'Hoven/De Bijl]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.598433,51.388953,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_77">
+<name><![CDATA[Kalmthoutsesteenweg 6/Bredabaan kruispunt]]></name>
+<description><![CDATA[Kalmthoutsesteenweg 6/Bredabaan kruispunt]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.590392,51.389325,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_78">
+<name><![CDATA[Kalmthoutsesteenweg 'Sint-Godelievestraat']]></name>
+<description><![CDATA[Kalmthoutsesteenweg 'Sint-Godelievestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.564047,51.391799,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_79">
+<name><![CDATA[Kalmthoutsesteenweg 'Duffelaarstraat']]></name>
+<description><![CDATA[Kalmthoutsesteenweg 'Duffelaarstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.510419,51.396558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_80">
+<name><![CDATA[Achterbroeksteenweg 'Kerk']]></name>
+<description><![CDATA[Achterbroeksteenweg 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.49756,51.396679,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_81">
+<name><![CDATA[Achterbroeksteenweg 'Regina Pacis']]></name>
+<description><![CDATA[Achterbroeksteenweg 'Regina Pacis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.489154,51.395718,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_82">
+<name><![CDATA[Heuvel 'OCMW ']]></name>
+<description><![CDATA[Heuvel 'OCMW ']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.463432,51.390249,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_83">
+<name><![CDATA[Jozef Wauterslaan 'Station']]></name>
+<description><![CDATA[Jozef Wauterslaan 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.337128,51.111807,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_84">
+<name><![CDATA[Antwerpsestraat 'Beekstraat']]></name>
+<description><![CDATA[Antwerpsestraat 'Beekstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.332343,51.115566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_85">
+<name><![CDATA[Fabiolalaan 'Peperstraat']]></name>
+<description><![CDATA[Fabiolalaan 'Peperstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.335369,51.12692,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_86">
+<name><![CDATA[Sint-Bernardsesteenweg 'Bosstraat']]></name>
+<description><![CDATA[Sint-Bernardsesteenweg 'Bosstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.335347,51.132306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_87">
+<name><![CDATA[Heuvelstraat 'Scheldestraat']]></name>
+<description><![CDATA[Heuvelstraat 'Scheldestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.33745,51.140196,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_88">
+<name><![CDATA[Antwerpsesteenweg 'Terlochtweg']]></name>
+<description><![CDATA[Antwerpsesteenweg 'Terlochtweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.339682,51.149444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_89">
+<name><![CDATA[Sint-Bernardsesteenweg 'Warschaustraat']]></name>
+<description><![CDATA[Sint-Bernardsesteenweg 'Warschaustraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.349617,51.159296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_90">
+<name><![CDATA[Broydenborglaan 'Verenigde Natieslaan']]></name>
+<description><![CDATA[Broydenborglaan 'Verenigde Natieslaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.357492,51.166091,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_91">
+<name><![CDATA[Broydenborglaan/ Meerlenhoflaan (kl. School)]]></name>
+<description><![CDATA[Broydenborglaan/ Meerlenhoflaan (kl. School)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.354616,51.172092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_92">
+<name><![CDATA[Oudestraat 55 (dagkribbe)]]></name>
+<description><![CDATA[Oudestraat 55 (dagkribbe)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.353329,51.176141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_93">
+<name><![CDATA[Steynstraat 'Krekelstraat']]></name>
+<description><![CDATA[Steynstraat 'Krekelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.358135,51.180459,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_94">
+<name><![CDATA[Weerstandlaan 'Krugerstraat']]></name>
+<description><![CDATA[Weerstandlaan 'Krugerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.368221,51.1851,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_95">
+<name><![CDATA[Emiel Vloorsstraat 'Stedelijke Sporthal']]></name>
+<description><![CDATA[Emiel Vloorsstraat 'Stedelijke Sporthal']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.377533,51.193801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_96">
+<name><![CDATA[Heimolenstraat Parking "Syntra"]]></name>
+<description><![CDATA[Heimolenstraat Parking "Syntra"]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.131703,51.14414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_97">
+<name><![CDATA[Valk 'Valk']]></name>
+<description><![CDATA[Valk 'Valk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.115396,51.158623,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_98">
+<name><![CDATA[Hoge Bokstraat 'Zwarte Beek']]></name>
+<description><![CDATA[Hoge Bokstraat 'Zwarte Beek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.112821,51.172348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_99">
+<name><![CDATA[Dries 'Dries']]></name>
+<description><![CDATA[Dries 'Dries']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.097114,51.193546,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_100">
+<name><![CDATA[Stationsstraat 'Dorp']]></name>
+<description><![CDATA[Stationsstraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.075141,51.207098,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_101">
+<name><![CDATA[Voorhout 'Malpertuslaan']]></name>
+<description><![CDATA[Voorhout 'Malpertuslaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.07145,51.212798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_102">
+<name><![CDATA[Voorhout 'Drieschouwen']]></name>
+<description><![CDATA[Voorhout 'Drieschouwen']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.066901,51.220217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_103">
+<name><![CDATA[Reinakkerweg/ P&R Reinakker]]></name>
+<description><![CDATA[Reinakkerweg/ P&R Reinakker]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.063604,51.226614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_104">
+<name><![CDATA[Grobbendonk, Toekomstlaan, P&R 'Wolfstee-Station']]></name>
+<description><![CDATA[Grobbendonk, Toekomstlaan, P&R 'Wolfstee-Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.785919,51.168365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_105">
+<name><![CDATA[Liersebaan 'Kerkstraat' (Richting E313)]]></name>
+<description><![CDATA[Liersebaan 'Kerkstraat' (Richting E313)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.643011,51.199301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_106">
+<name><![CDATA[Wommelgem P&R]]></name>
+<description><![CDATA[Wommelgem P&R]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.492743,51.212321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_107">
+<name><![CDATA[Cogelsplein 'Cogelsplein']]></name>
+<description><![CDATA[Cogelsplein 'Cogelsplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.455578,51.219975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_108">
+<name><![CDATA[Turnhoutsebaan 'Leeuwlantstraat']]></name>
+<description><![CDATA[Turnhoutsebaan 'Leeuwlantstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.466093,51.219962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_109">
+<name><![CDATA[Turnhoutsebaan  'Schotensesteenweg']]></name>
+<description><![CDATA[Turnhoutsebaan  'Schotensesteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.473635,51.219068,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_110">
+<name><![CDATA[Ruggeveldlaan 'F. Van Dijckstraat']]></name>
+<description><![CDATA[Ruggeveldlaan 'F. Van Dijckstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.479353,51.224095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_111">
+<name><![CDATA[Ruggeveldlaan 'Ruggeveldlaan']]></name>
+<description><![CDATA[Ruggeveldlaan 'Ruggeveldlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.47916,51.231593,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_112">
+<name><![CDATA[Ter Heydelaan 'Antwerp stadion']]></name>
+<description><![CDATA[Ter Heydelaan 'Antwerp stadion']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.469327,51.228351,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_113">
+<name><![CDATA[Ter Heydelaan  'Clara Snellings']]></name>
+<description><![CDATA[Ter Heydelaan  'Clara Snellings']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.464628,51.227296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_114">
+<name><![CDATA[Confortalei 'Craeybeckx']]></name>
+<description><![CDATA[Confortalei 'Craeybeckx']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.458604,51.226261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_115">
+<name><![CDATA[Confortalei  'Lakborslei']]></name>
+<description><![CDATA[Confortalei  'Lakborslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.456678,51.230588,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_116">
+<name><![CDATA[Groenendaallaan 'Bredabaan']]></name>
+<description><![CDATA[Groenendaallaan 'Bredabaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.436433,51.240759,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_117">
+<name><![CDATA[Groenendaallaan 'Lambrechtshoeken']]></name>
+<description><![CDATA[Groenendaallaan 'Lambrechtshoeken']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.429698,51.243677,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_118">
+<name><![CDATA[Lambrechtshoeken 'De Vlaschaardstraat']]></name>
+<description><![CDATA[Lambrechtshoeken 'De Vlaschaardstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.433179,51.249506,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_119">
+<name><![CDATA[Lambrechtshoeken 'Ryenlanddreef']]></name>
+<description><![CDATA[Lambrechtshoeken 'Ryenlanddreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434971,51.252483,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_120">
+<name><![CDATA[Kerkstraat 'Eikenlei']]></name>
+<description><![CDATA[Kerkstraat 'Eikenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.557009,51.263217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_121">
+<name><![CDATA[Alfons Servaislei 'Lusthofdreef']]></name>
+<description><![CDATA[Alfons Servaislei 'Lusthofdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.529178,51.254368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_122">
+<name><![CDATA[Villerslei 'Lindenlei']]></name>
+<description><![CDATA[Villerslei 'Lindenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.513729,51.252179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_123">
+<name><![CDATA[Fluitbergstraat rto nr10]]></name>
+<description><![CDATA[Fluitbergstraat rto nr10]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.503922,51.254771,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_124">
+<name><![CDATA[Paalstraat 'Gemeentehuis']]></name>
+<description><![CDATA[Paalstraat 'Gemeentehuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.497914,51.251037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_125">
+<name><![CDATA[Churchilllaan 'Borkelstraat']]></name>
+<description><![CDATA[Churchilllaan 'Borkelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.486778,51.24995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_126">
+<name><![CDATA[Borgeindstraat 'De Lek']]></name>
+<description><![CDATA[Borgeindstraat 'De Lek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474547,51.246081,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_127">
+<name><![CDATA[Hoek Winkelstap/ Karel Selsstraat]]></name>
+<description><![CDATA[Hoek Winkelstap/ Karel Selsstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.465921,51.250822,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_128">
+<name><![CDATA[Ringlaan 'Laaglandlaan']]></name>
+<description><![CDATA[Ringlaan 'Laaglandlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.44663,51.254892,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_129">
+<name><![CDATA[Maantjessteenweg 'F. Adriaenssensstraat']]></name>
+<description><![CDATA[Maantjessteenweg 'F. Adriaenssensstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.440579,51.255281,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_130">
+<name><![CDATA[Victor Govaerslaan 'Rietschoorvelden']]></name>
+<description><![CDATA[Victor Govaerslaan 'Rietschoorvelden']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434378,51.256262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_131">
+<name><![CDATA[Absdaalseweg thv Parking Steensedijk]]></name>
+<description><![CDATA[Absdaalseweg thv Parking Steensedijk]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.049159,51.276074,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_132">
+<name><![CDATA[De Klingestraat 'Paal De Klingestraat']]></name>
+<description><![CDATA[De Klingestraat 'Paal De Klingestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.065453,51.247868,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_133">
+<name><![CDATA[Sint-Gillisstraat 'Kerk']]></name>
+<description><![CDATA[Sint-Gillisstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.0897,51.255792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_134">
+<name><![CDATA[Molenstraat 'Molenstraat']]></name>
+<description><![CDATA[Molenstraat 'Molenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.170939,51.28903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_135">
+<name><![CDATA[Dorpsstraat 'Kerk']]></name>
+<description><![CDATA[Dorpsstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.175402,51.288842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_136">
+<name><![CDATA[Verrebroekstraat 'Dorp']]></name>
+<description><![CDATA[Verrebroekstraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.188899,51.255429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_137">
+<name><![CDATA[Verrebroekstraat P&R 'Schoorstraat' °]]></name>
+<description><![CDATA[Verrebroekstraat P&R 'Schoorstraat' °]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.18998,51.241976,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_138">
+<name><![CDATA[Zilverenhoeksteenweg 'Dorpplaats']]></name>
+<description><![CDATA[Zilverenhoeksteenweg 'Dorpplaats']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.514297,51.431979,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_139">
+<name><![CDATA[Essensteenweg 'Kapel']]></name>
+<description><![CDATA[Essensteenweg 'Kapel']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.51139,51.434842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_140">
+<name><![CDATA[Kapelstraat 'Gemeentehuis']]></name>
+<description><![CDATA[Kapelstraat 'Gemeentehuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.472165,51.464689,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_141">
+<name><![CDATA[Stationsstraat 'Bibliotheek']]></name>
+<description><![CDATA[Stationsstraat 'Bibliotheek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.465599,51.466801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_142">
+<name><![CDATA[Stationsstraat  'Kloosterstraat']]></name>
+<description><![CDATA[Stationsstraat  'Kloosterstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.462059,51.465438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_143">
+<name><![CDATA[Spoorwegstraat 'Station']]></name>
+<description><![CDATA[Spoorwegstraat 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451265,51.462604,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_144">
+<name><![CDATA[Moerkantsebaan 'Heemhuis']]></name>
+<description><![CDATA[Moerkantsebaan 'Heemhuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.442275,51.458312,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_145">
+<name><![CDATA[Moerkantsebaan 'Wolfsheuvel']]></name>
+<description><![CDATA[Moerkantsebaan 'Wolfsheuvel']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.417942,51.447548,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_146">
+<name><![CDATA[Moerkantsebaan 'Essen Hoek']]></name>
+<description><![CDATA[Moerkantsebaan 'Essen Hoek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411182,51.446304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_147">
+<name><![CDATA[Kerk]]></name>
+<description><![CDATA[Kerk]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.377971,51.433023,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_148">
+<name><![CDATA[Huijbergseweg 43]]></name>
+<description><![CDATA[Huijbergseweg 43]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.330764,51.423306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_149">
+<name><![CDATA[Huijbergseweg 1 'Intertoys']]></name>
+<description><![CDATA[Huijbergseweg 1 'Intertoys']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.323742,51.422855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_150">
+<name><![CDATA[Markt 11]]></name>
+<description><![CDATA[Markt 11]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.326661,51.395979,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_151">
+<name><![CDATA[Burgemeester Voetenstraat/Aanwas]]></name>
+<description><![CDATA[Burgemeester Voetenstraat/Aanwas]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.315202,51.393609,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_152">
+<name><![CDATA[Antwerpsesteenweg 'Schaggeleweg']]></name>
+<description><![CDATA[Antwerpsesteenweg 'Schaggeleweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.689499,51.297235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_153">
+<name><![CDATA[Antwerpsesteenweg  'Dennenlaan']]></name>
+<description><![CDATA[Antwerpsesteenweg  'Dennenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.667902,51.286038,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_154">
+<name><![CDATA[Handelslei 'Bethaniënlei']]></name>
+<description><![CDATA[Handelslei 'Bethaniënlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.642088,51.269058,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_155">
+<name><![CDATA[Bethaniënlei 'Jukschotstraat']]></name>
+<description><![CDATA[Bethaniënlei 'Jukschotstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.637625,51.271971,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_156">
+<name><![CDATA[Bethaniënlei  'Spartalaan']]></name>
+<description><![CDATA[Bethaniënlei  'Spartalaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.627604,51.277045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_157">
+<name><![CDATA[Bethaniënlei   'Inst. Kristus Koning']]></name>
+<description><![CDATA[Bethaniënlei   'Inst. Kristus Koning']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.58632,51.292479,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_158">
+<name><![CDATA[Brugstraat 'Kerkelei']]></name>
+<description><![CDATA[Brugstraat 'Kerkelei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.577222,51.292512,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_159">
+<name><![CDATA[Brugstraat 'Braakstraat']]></name>
+<description><![CDATA[Brugstraat 'Braakstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.574304,51.296819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_160">
+<name><![CDATA[Brugstraat nr 192]]></name>
+<description><![CDATA[Brugstraat nr 192]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.570506,51.301428,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_161">
+<name><![CDATA[Eikenlei 'Kruispunt']]></name>
+<description><![CDATA[Eikenlei 'Kruispunt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.567298,51.304111,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_162">
+<name><![CDATA[Eikenlei  'Sluisvijfbaan']]></name>
+<description><![CDATA[Eikenlei  'Sluisvijfbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.556708,51.299127,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_163">
+<name><![CDATA[Brechtsebaan 'Spaans Wijnhuis']]></name>
+<description><![CDATA[Brechtsebaan 'Spaans Wijnhuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.546194,51.293572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_164">
+<name><![CDATA[Hoek Brechtsebaan/ Elshoutbaan]]></name>
+<description><![CDATA[Hoek Brechtsebaan/ Elshoutbaan]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.526346,51.278777,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_165">
+<name><![CDATA[Elshoutbaan 'Dennenweg']]></name>
+<description><![CDATA[Elshoutbaan 'Dennenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.517816,51.281414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_166">
+<name><![CDATA[Miksebaan 'Elshoutbaan']]></name>
+<description><![CDATA[Miksebaan 'Elshoutbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.500414,51.290526,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_167">
+<name><![CDATA[Burgemeester Achiel Heymanstraat 'Kerkstraat']]></name>
+<description><![CDATA[Burgemeester Achiel Heymanstraat 'Kerkstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.176772,51.113464,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_168">
+<name><![CDATA[Burgemeester Achiel Heymanstraat 'Molenstraat']]></name>
+<description><![CDATA[Burgemeester Achiel Heymanstraat 'Molenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.182479,51.114973,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_169">
+<name><![CDATA[Sint-Amelbergalaan 'Sint-Amelbergalaan']]></name>
+<description><![CDATA[Sint-Amelbergalaan 'Sint-Amelbergalaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.202306,51.126394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_170">
+<name><![CDATA[Parklaan 'Atheneum/Zwembad']]></name>
+<description><![CDATA[Parklaan 'Atheneum/Zwembad']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.152396,51.157842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_171">
+<name><![CDATA[Parklaan 'Park']]></name>
+<description><![CDATA[Parklaan 'Park']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.145701,51.161584,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_172">
+<name><![CDATA[Hofstraat 'Hofstraat']]></name>
+<description><![CDATA[Hofstraat 'Hofstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.145701,51.161584,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_173">
+<name><![CDATA[Noordlaan 'Station']]></name>
+<description><![CDATA[Noordlaan 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.144499,51.172509,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_174">
+<name><![CDATA[Ten Bos/Gyselstraat (kerk)]]></name>
+<description><![CDATA[Ten Bos/Gyselstraat (kerk)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.177887,51.193761,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_175">
+<name><![CDATA[Vrasenestraat 'Kriekelaarstraat']]></name>
+<description><![CDATA[Vrasenestraat 'Kriekelaarstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.192221,51.206507,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_176">
+<name><![CDATA[Nieuwe Baan 'Kerk']]></name>
+<description><![CDATA[Nieuwe Baan 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.194328,51.219975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_177">
+<name><![CDATA[Dirkputstraat 'Pastorijstraat' (rijrichting Nachtegaalstraat)]]></name>
+<description><![CDATA[Dirkputstraat 'Pastorijstraat' (rijrichting Nachtegaalstraat)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.393541,51.092176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_178">
+<name><![CDATA[Schommelei 'De Schorre' (rijrichting Velodroomstraat)]]></name>
+<description><![CDATA[Schommelei 'De Schorre' (rijrichting Velodroomstraat)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.375562,51.089366,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_179">
+<name><![CDATA[Antwerpsestraat 'Tuinwijk']]></name>
+<description><![CDATA[Antwerpsestraat 'Tuinwijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.367997,51.099958,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_180">
+<name><![CDATA[Antwerpsestraat  '’s-Herenbaan']]></name>
+<description><![CDATA[Antwerpsestraat  '’s-Herenbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.369746,51.106553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_181">
+<name><![CDATA[Boomsesteenweg 'Leugstraat']]></name>
+<description><![CDATA[Boomsesteenweg 'Leugstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.37734,51.134191,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_182">
+<name><![CDATA[Boomsesteenweg  'Kontichsesteenweg']]></name>
+<description><![CDATA[Boomsesteenweg  'Kontichsesteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.379829,51.143292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_183">
+<name><![CDATA[Boomsesteenweg  'Valkstraat']]></name>
+<description><![CDATA[Boomsesteenweg  'Valkstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.386717,51.1685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_184">
+<name><![CDATA[Boomsesteenweg  'J. Moretuslei']]></name>
+<description><![CDATA[Boomsesteenweg  'J. Moretuslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.387683,51.171729,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_185">
+<name><![CDATA[Boomsesteenweg  'Dr. Veeckmanslaan']]></name>
+<description><![CDATA[Boomsesteenweg  'Dr. Veeckmanslaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.38897,51.176182,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_186">
+<name><![CDATA[Hoek Kalmthoutssteenweg/ Sint-Janstraat]]></name>
+<description><![CDATA[Hoek Kalmthoutssteenweg/ Sint-Janstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.461608,51.428381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_187">
+<name><![CDATA[Hoek Noordeind/ F. Raatsstraat]]></name>
+<description><![CDATA[Hoek Noordeind/ F. Raatsstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.470599,51.400129,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_188">
+<name><![CDATA[Dorpsstraat 'Dorpsstraat']]></name>
+<description><![CDATA[Dorpsstraat 'Dorpsstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474182,51.394239,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_189">
+<name><![CDATA[Kapellensteenweg 'Sint-Vincentius']]></name>
+<description><![CDATA[Kapellensteenweg 'Sint-Vincentius']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.475212,51.388655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_190">
+<name><![CDATA[Kapellensteenweg 'Kerk']]></name>
+<description><![CDATA[Kapellensteenweg 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.47489,51.382616,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_191">
+<name><![CDATA[Kapellensteenweg 'Foxemaatstraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Foxemaatstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474633,51.378986,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_192">
+<name><![CDATA[Kapellensteenweg 'Bareelstraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Bareelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.472229,51.374848,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_193">
+<name><![CDATA[Kapellensteenweg 'Heidestatiestraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Heidestatiestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.466844,51.365886,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_194">
+<name><![CDATA[Kapellensteenweg 'Withoeflei']]></name>
+<description><![CDATA[Kapellensteenweg 'Withoeflei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.462745,51.359736,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_195">
+<name><![CDATA[Kalmthoutsesteenweg 'Golflei']]></name>
+<description><![CDATA[Kalmthoutsesteenweg 'Golflei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.452081,51.348601,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_196">
+<name><![CDATA[Kalmthoutsesteenweg 'J. Mulslaan']]></name>
+<description><![CDATA[Kalmthoutsesteenweg 'J. Mulslaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.429035,51.332971,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_197">
+<name><![CDATA[Kapelsestraat 'Kalmthoutsesteenweg']]></name>
+<description><![CDATA[Kapelsestraat 'Kalmthoutsesteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.41556,51.329137,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_198">
+<name><![CDATA[Kapelsestraat 'Pelgrimsstraat']]></name>
+<description><![CDATA[Kapelsestraat 'Pelgrimsstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411805,51.332891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_199">
+<name><![CDATA[Kapelsestraat 'Waterstraat']]></name>
+<description><![CDATA[Kapelsestraat 'Waterstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411805,51.332891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_200">
+<name><![CDATA[Bredabaan 'Klooster']]></name>
+<description><![CDATA[Bredabaan 'Klooster']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.55555,51.360594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_201">
+<name><![CDATA[Bredabaan 'Verellenlaan']]></name>
+<description><![CDATA[Bredabaan 'Verellenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.54878,51.355073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_202">
+<name><![CDATA[Bredabaan 'Bosduinstraat']]></name>
+<description><![CDATA[Bredabaan 'Bosduinstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.545765,51.352715,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_203">
+<name><![CDATA[Bredabaan 'Kochdreef']]></name>
+<description><![CDATA[Bredabaan 'Kochdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.538909,51.347143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_204">
+<name><![CDATA[Bredabaan 'Sint-Jobsteenweg']]></name>
+<description><![CDATA[Bredabaan 'Sint-Jobsteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.522312,51.328108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_205">
+<name><![CDATA[Bredabaan 'Maria Ter Heide Kerk']]></name>
+<description><![CDATA[Bredabaan 'Maria Ter Heide Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.520091,51.323274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_206">
+<name><![CDATA[Bredabaan 'BethaniÙlei']]></name>
+<description><![CDATA[Bredabaan 'BethaniÙlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.513155,51.313139,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_207">
+<name><![CDATA[Bredabaan 'Torenhof']]></name>
+<description><![CDATA[Bredabaan 'Torenhof']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.503762,51.303793,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_208">
+<name><![CDATA[Bredabaan 'Prins Kavellei']]></name>
+<description><![CDATA[Bredabaan 'Prins Kavellei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.497544,51.29638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_209">
+<name><![CDATA[Bredabaan 'Kerk Bredabaan']]></name>
+<description><![CDATA[Bredabaan 'Kerk Bredabaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.492357,51.29064,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_210">
+<name><![CDATA[Bredabaan 'Dr. Roosensplein']]></name>
+<description><![CDATA[Bredabaan 'Dr. Roosensplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.486274,51.287531,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_211">
+<name><![CDATA[Kapelsesteenweg 'Vrijwilligerslei']]></name>
+<description><![CDATA[Kapelsesteenweg 'Vrijwilligerslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.443927,51.292559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_212">
+<name><![CDATA[Kapelsesteenweg 'Boskapellei']]></name>
+<description><![CDATA[Kapelsesteenweg 'Boskapellei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.442146,51.295162,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_213">
+<name><![CDATA[Kapelsesteenweg 'Valkenlaan']]></name>
+<description><![CDATA[Kapelsesteenweg 'Valkenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.439743,51.298463,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_214">
+<name><![CDATA[Antwerpsesteenweg 'Zilverhoeklaan']]></name>
+<description><![CDATA[Antwerpsesteenweg 'Zilverhoeklaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434743,51.305372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_215">
+<name><![CDATA[Klein Heiken - voor bareel]]></name>
+<description><![CDATA[Klein Heiken - voor bareel]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.431503,51.304057,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_216">
+<name><![CDATA[Hoek Klein Heiken/ Heiveldlaan]]></name>
+<description><![CDATA[Hoek Klein Heiken/ Heiveldlaan]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.424186,51.300288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_217">
+<name><![CDATA[Leugenberg 'Klein Heiken']]></name>
+<description><![CDATA[Leugenberg 'Klein Heiken']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411547,51.296746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_218">
+<name><![CDATA[Leugenberg 'Plasstraat']]></name>
+<description><![CDATA[Leugenberg 'Plasstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.410517,51.302394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_219">
+<name><![CDATA[Markt 'Markt']]></name>
+<description><![CDATA[Markt 'Markt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.404659,51.306405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_220">
+<name><![CDATA[Hoge Weg 'Mannienlaan']]></name>
+<description><![CDATA[Hoge Weg 'Mannienlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.399981,51.310429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_221">
+<name><![CDATA[Hoge Weg 'Krekelberg']]></name>
+<description><![CDATA[Hoge Weg 'Krekelberg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.395497,51.31452,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_222">
+<name><![CDATA[Hoge Weg 'Rijstraat']]></name>
+<description><![CDATA[Hoge Weg 'Rijstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.390336,51.320166,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_223">
+<name><![CDATA[Hoge Weg '’s Hertogendijk']]></name>
+<description><![CDATA[Hoge Weg '’s Hertogendijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.384124,51.326482,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_224">
+<name><![CDATA[Grote Molenweg 'Rode Hoevelaan']]></name>
+<description><![CDATA[Grote Molenweg 'Rode Hoevelaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.380198,51.32968,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_225">
+<name><![CDATA[Grote Molenweg 'Molenberg']]></name>
+<description><![CDATA[Grote Molenweg 'Molenberg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.376271,51.332887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_226">
+<name><![CDATA[Heidestatieplein 'Station Heide']]></name>
+<description><![CDATA[Heidestatieplein 'Station Heide']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.459859,51.364553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_227">
+<name><![CDATA[Hoek Klinkaardstraat/ Dreihoevenseweg]]></name>
+<description><![CDATA[Hoek Klinkaardstraat/ Dreihoevenseweg]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432007,51.361874,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_228">
+<name><![CDATA[Driehoevenseweg/Paasbloemlaan]]></name>
+<description><![CDATA[Driehoevenseweg/Paasbloemlaan]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.423585,51.362074,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_229">
+<name><![CDATA[Grensstraat 99/Oosthoevestraat]]></name>
+<description><![CDATA[Grensstraat 99/Oosthoevestraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.407438,51.358946,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_230">
+<name><![CDATA[Grensstraat 22/Tulpstraat]]></name>
+<description><![CDATA[Grensstraat 22/Tulpstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.398072,51.356722,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_231">
+<name><![CDATA[Ertbrandststraat 109 (De Toerist)]]></name>
+<description><![CDATA[Ertbrandststraat 109 (De Toerist)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.395046,51.355321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_232">
+<name><![CDATA[Ertbrandstraat 'Lepelstraat']]></name>
+<description><![CDATA[Ertbrandstraat 'Lepelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.397433,51.35179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_233">
+<name><![CDATA[Ertbrandstraat 'Stabroeksteenweg']]></name>
+<description><![CDATA[Ertbrandstraat 'Stabroeksteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.399032,51.348855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_234">
+<name><![CDATA[Driehoek 'Plantinlaan']]></name>
+<description><![CDATA[Driehoek 'Plantinlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.393753,51.345605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_235">
+<name><![CDATA[Hoogeind 'Lassonhoflaan']]></name>
+<description><![CDATA[Hoogeind 'Lassonhoflaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.377816,51.337492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_236">
+<name><![CDATA[Dorpsstraat 'Sigarenstraat']]></name>
+<description><![CDATA[Dorpsstraat 'Sigarenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.371126,51.334634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_237">
+<name><![CDATA[Dorpsstraat 'Dorp']]></name>
+<description><![CDATA[Dorpsstraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.365048,51.332083,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_238">
+<name><![CDATA[Augustijnslei 'Lage Kaart']]></name>
+<description><![CDATA[Augustijnslei 'Lage Kaart']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.485898,51.303548,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_239">
+<name><![CDATA[Rustoordlei 'Rustoordlei']]></name>
+<description><![CDATA[Rustoordlei 'Rustoordlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.473345,51.300415,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_240">
+<name><![CDATA[Max Hermanlei 'Schout De Moorstraat']]></name>
+<description><![CDATA[Max Hermanlei 'Schout De Moorstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.480727,51.309772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_241">
+<name><![CDATA[Hoogboomsteenweg 'Hoogboom Kerk']]></name>
+<description><![CDATA[Hoogboomsteenweg 'Hoogboom Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.46017,51.31558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_242">
+<name><![CDATA[Hoogboomsteenweg 'Hoogboom Kazerne']]></name>
+<description><![CDATA[Hoogboomsteenweg 'Hoogboom Kazerne']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451737,51.312387,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_243">
+<name><![CDATA[Hoogboomsteenweg  'Kon. Astridlaan']]></name>
+<description><![CDATA[Hoogboomsteenweg  'Kon. Astridlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.445128,51.309316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_244">
+<name><![CDATA[Kon. Astridlaan 'Station']]></name>
+<description><![CDATA[Kon. Astridlaan 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434099,51.313635,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_245">
+<name><![CDATA[Christiaan Pallemansstraat 'Vandenhoudtstraat']]></name>
+<description><![CDATA[Christiaan Pallemansstraat 'Vandenhoudtstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432983,51.317605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_246">
+<name><![CDATA[Sparrenlaan 'Vredeburgh']]></name>
+<description><![CDATA[Sparrenlaan 'Vredeburgh']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.435537,51.320099,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_247">
+<name><![CDATA[Hoevensebaan 'Dorp']]></name>
+<description><![CDATA[Hoevensebaan 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.428155,51.314453,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_248">
+<name><![CDATA[Hoevensebaan 'Sevenhanslei']]></name>
+<description><![CDATA[Hoevensebaan 'Sevenhanslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.421868,51.312019,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_249">
+<name><![CDATA[Hoevensebaan 'Albertdreef']]></name>
+<description><![CDATA[Hoevensebaan 'Albertdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.418339,51.310885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_250">
+<name><![CDATA[Hoevensebaan 'Parijseweg']]></name>
+<description><![CDATA[Hoevensebaan 'Parijseweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.413629,51.309685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_251">
+<name><![CDATA[Kerkstraat 'Gemeentehuis']]></name>
+<description><![CDATA[Kerkstraat 'Gemeentehuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.402814,51.305661,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_252">
+<name><![CDATA[Kapelsesteenweg 'Sint-Michielscollege']]></name>
+<description><![CDATA[Kapelsesteenweg 'Sint-Michielscollege']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.458432,51.272172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_253">
+<name><![CDATA[Kapelsesteenweg 'Donk kerk']]></name>
+<description><![CDATA[Kapelsesteenweg 'Donk kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.453261,51.279515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_254">
+<name><![CDATA[Veltwijcklaan 'Louislei']]></name>
+<description><![CDATA[Veltwijcklaan 'Louislei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.449356,51.284306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_255">
+<name><![CDATA[Veltwijcklaan 'Margrietlaan']]></name>
+<description><![CDATA[Veltwijcklaan 'Margrietlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.44279,51.282011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_256">
+<name><![CDATA[Jos Craeybeckxlaan 'Geestenspoor']]></name>
+<description><![CDATA[Jos Craeybeckxlaan 'Geestenspoor']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.428005,51.282817,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_257">
+<name><![CDATA[Jaak van Haesendonckstraat 'Driehoekstraat']]></name>
+<description><![CDATA[Jaak van Haesendonckstraat 'Driehoekstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.423842,51.284575,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_258">
+<name><![CDATA[Bilderdijkstraat 'Bilderdijk']]></name>
+<description><![CDATA[Bilderdijkstraat 'Bilderdijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.41431,51.284232,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_259">
+<name><![CDATA[Schoonbroek ' Oorderseweg']]></name>
+<description><![CDATA[Schoonbroek ' Oorderseweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411392,51.281974,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_260">
+<name><![CDATA[Schoonbroek 'Akkerstraat']]></name>
+<description><![CDATA[Schoonbroek 'Akkerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.410008,51.279099,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_261">
+<name><![CDATA[Groot Hagelkruis 'Klein Hagelkruis']]></name>
+<description><![CDATA[Groot Hagelkruis 'Klein Hagelkruis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411971,51.275367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_262">
+<name><![CDATA[Abtsdreef 'Van De Poel']]></name>
+<description><![CDATA[Abtsdreef 'Van De Poel']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.362549,51.33144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_263">
+<name><![CDATA[Monnikenhofstraat 'Opstal']]></name>
+<description><![CDATA[Monnikenhofstraat 'Opstal']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.340549,51.348798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_264">
+<name><![CDATA[Monnikenhofstraat 'Viswater']]></name>
+<description><![CDATA[Monnikenhofstraat 'Viswater']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.331601,51.348286,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_265">
+<name><![CDATA[Bosstraat 'Kleine Bredestraat']]></name>
+<description><![CDATA[Bosstraat 'Kleine Bredestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.322675,51.346275,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_266">
+<name><![CDATA[Solftplaats 'Solftplaats']]></name>
+<description><![CDATA[Solftplaats 'Solftplaats']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.314483,51.343364,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_267">
+<name><![CDATA[Dorpstraat 'Stwg. Zandvliet']]></name>
+<description><![CDATA[Dorpstraat 'Stwg. Zandvliet']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.312971,51.349656,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_268">
+<name><![CDATA[Antwerpsebaan 265]]></name>
+<description><![CDATA[Antwerpsebaan 265]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.320116,51.351214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_269">
+<name><![CDATA[Steenovenstraat 'Kapelstraat']]></name>
+<description><![CDATA[Steenovenstraat 'Kapelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.327669,51.352487,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_270">
+<name><![CDATA[Ruytermansweg 'Ruytermansweg']]></name>
+<description><![CDATA[Ruytermansweg 'Ruytermansweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.329493,51.355998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_271">
+<name><![CDATA[Zandvlietse Dorpstraat 95/Berendrechtsvoetpad]]></name>
+<description><![CDATA[Zandvlietse Dorpstraat 95/Berendrechtsvoetpad]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.31366,51.356099,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_272">
+<name><![CDATA[Zoutestraat 'Bakkerstraat']]></name>
+<description><![CDATA[Zoutestraat 'Bakkerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.306512,51.355579,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_273">
+<name><![CDATA[De Keyserhoeve 'Dorp']]></name>
+<description><![CDATA[De Keyserhoeve 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.308631,51.359723,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_274">
+<name><![CDATA[Putsebaan 'Aakstraat']]></name>
+<description><![CDATA[Putsebaan 'Aakstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.315588,51.35915,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_275">
+<name><![CDATA[Antwerpsebaan 356]]></name>
+<description><![CDATA[Antwerpsebaan 356]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.322219,51.359468,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_276">
+<name><![CDATA[Bredabaan 'Maria ter Heide Kerk']]></name>
+<description><![CDATA[Bredabaan 'Maria ter Heide Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.520225,51.323234,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_277">
+<name><![CDATA[Bredabaan 'Sint-Jobsteenweg']]></name>
+<description><![CDATA[Bredabaan 'Sint-Jobsteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.522462,51.327957,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_278">
+<name><![CDATA[Bredabaan 'Kochdreef']]></name>
+<description><![CDATA[Bredabaan 'Kochdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.539515,51.347441,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_279">
+<name><![CDATA[Bredabaan 'Bosduinstraat']]></name>
+<description><![CDATA[Bredabaan 'Bosduinstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.545615,51.352387,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_280">
+<name><![CDATA[Bredabaan 'Klooster']]></name>
+<description><![CDATA[Bredabaan 'Klooster']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.555464,51.36045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_281">
+<name><![CDATA[Bredabaan 'Martendijk']]></name>
+<description><![CDATA[Bredabaan 'Martendijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.559653,51.363863,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_282">
+<name><![CDATA[Bredabaan 'Beersgat']]></name>
+<description><![CDATA[Bredabaan 'Beersgat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.573118,51.374824,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_283">
+<name><![CDATA[Biest thv Gasthuishoeve]]></name>
+<description><![CDATA[Biest thv Gasthuishoeve]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.594785,51.388217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_284">
+<name><![CDATA[Kalmthoutsesteenweg 6]]></name>
+<description><![CDATA[Kalmthoutsesteenweg 6]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.59048,51.389286,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_285">
+<name><![CDATA[Kalmthoutsesteenweg 'Sint-Godelievestraat']]></name>
+<description><![CDATA[Kalmthoutsesteenweg 'Sint-Godelievestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.564103,51.391805,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_286">
+<name><![CDATA[Hoek Kalmthoutsesteenweg/ Delhahyeweg]]></name>
+<description><![CDATA[Hoek Kalmthoutsesteenweg/ Delhahyeweg]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.542764,51.393643,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_287">
+<name><![CDATA[Achterbroeksteenweg 'Kerk']]></name>
+<description><![CDATA[Achterbroeksteenweg 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.497555,51.39668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_288">
+<name><![CDATA[Kapellensteenweg 'Achterbroeksteenweg']]></name>
+<description><![CDATA[Kapellensteenweg 'Achterbroeksteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474319,51.393087,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_289">
+<name><![CDATA[Kapellensteenweg 'Sint-Vincentius']]></name>
+<description><![CDATA[Kapellensteenweg 'Sint-Vincentius']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.475223,51.388476,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_290">
+<name><![CDATA[Kapellensteenweg 'Kerk']]></name>
+<description><![CDATA[Kapellensteenweg 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.47496,51.382618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_291">
+<name><![CDATA[Kapellensteenweg 'Foxemaatstraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Foxemaatstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474652,51.378794,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_292">
+<name><![CDATA[Kapellensteenweg 'Bareelstraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Bareelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.472449,51.374821,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_293">
+<name><![CDATA[Kapellensteenweg 'Kon. Elisabethstraat']]></name>
+<description><![CDATA[Kapellensteenweg 'Kon. Elisabethstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.469555,51.370233,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_294">
+<name><![CDATA[Heidestatiestraat 2]]></name>
+<description><![CDATA[Heidestatiestraat 2]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.467037,51.366569,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_295">
+<name><![CDATA[Heidestatiestraat 76 Station Heide]]></name>
+<description><![CDATA[Heidestatiestraat 76 Station Heide]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.461029,51.364921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_296">
+<name><![CDATA[Putsesteenweg Klinkaardstraat/ Driehoeven]]></name>
+<description><![CDATA[Putsesteenweg Klinkaardstraat/ Driehoeven]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432168,51.362028,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_297">
+<name><![CDATA[Grensstraat 99/ Oosthoevestraat]]></name>
+<description><![CDATA[Grensstraat 99/ Oosthoevestraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.407685,51.359026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_298">
+<name><![CDATA[Grensstraat 22/ Driehoevenseweg Tulpstraat]]></name>
+<description><![CDATA[Grensstraat 22/ Driehoevenseweg Tulpstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.398072,51.356722,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_299">
+<name><![CDATA[Ertbrandstraat 109 (De Toerist)]]></name>
+<description><![CDATA[Ertbrandstraat 109 (De Toerist)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.395046,51.355321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_300">
+<name><![CDATA[Ertbrandstraat 'Lepelstraat']]></name>
+<description><![CDATA[Ertbrandstraat 'Lepelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.397433,51.35179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_301">
+<name><![CDATA[Puttestraat 'Stabroeksteenweg']]></name>
+<description><![CDATA[Puttestraat 'Stabroeksteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.399016,51.348842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_302">
+<name><![CDATA[Driehoek 'Plantinlaan']]></name>
+<description><![CDATA[Driehoek 'Plantinlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.393753,51.345605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_303">
+<name><![CDATA[Hoogeind 'Lassonhoflaan']]></name>
+<description><![CDATA[Hoogeind 'Lassonhoflaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.377816,51.337492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_304">
+<name><![CDATA[Dorpsstraat 'Sigarenstraat']]></name>
+<description><![CDATA[Dorpsstraat 'Sigarenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.371126,51.334634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_305">
+<name><![CDATA[Dorpsstraat 'Dorp']]></name>
+<description><![CDATA[Dorpsstraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.365048,51.332083,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_306">
+<name><![CDATA[Miksebaan 'De Vis']]></name>
+<description><![CDATA[Miksebaan 'De Vis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.510156,51.294203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_307">
+<name><![CDATA[Pauwelslei 'Heislagsebaan']]></name>
+<description><![CDATA[Pauwelslei 'Heislagsebaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.511454,51.304561,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_308">
+<name><![CDATA[Bredabaan 'Torenhof']]></name>
+<description><![CDATA[Bredabaan 'Torenhof']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.503729,51.303803,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_309">
+<name><![CDATA[Bredabaan 'Prins Kavellei']]></name>
+<description><![CDATA[Bredabaan 'Prins Kavellei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.497517,51.29638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_310">
+<name><![CDATA[Bredabaan 'Kerk Bredabaan']]></name>
+<description><![CDATA[Bredabaan 'Kerk Bredabaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.492341,51.29064,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_311">
+<name><![CDATA[Augustijnslei thv Klina]]></name>
+<description><![CDATA[Augustijnslei thv Klina]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.488532,51.2975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_312">
+<name><![CDATA[Augustijnslei 'Lage Kaart']]></name>
+<description><![CDATA[Augustijnslei 'Lage Kaart']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.485919,51.303467,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_313">
+<name><![CDATA[Hoogbeemsteenweg 'Max Hermanlei']]></name>
+<description><![CDATA[Hoogbeemsteenweg 'Max Hermanlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.481982,51.309624,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_314">
+<name><![CDATA[Hoogbeemsteenweg 'Hoogboom Kerk']]></name>
+<description><![CDATA[Hoogbeemsteenweg 'Hoogboom Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.459945,51.315412,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_315">
+<name><![CDATA[Hoogbeemsteenweg 'Hoogboom Kazerne']]></name>
+<description><![CDATA[Hoogbeemsteenweg 'Hoogboom Kazerne']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451839,51.312334,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_316">
+<name><![CDATA[Hoogbeemsteenweg 'Kon. Astridlaan']]></name>
+<description><![CDATA[Hoogbeemsteenweg 'Kon. Astridlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.445397,51.309373,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_317">
+<name><![CDATA[Antwerpsesteenweg 'Dorp']]></name>
+<description><![CDATA[Antwerpsesteenweg 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.429459,51.31451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_318">
+<name><![CDATA[Kapelsestraat 'Streepstraat']]></name>
+<description><![CDATA[Kapelsestraat 'Streepstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.425913,51.318882,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_319">
+<name><![CDATA[Kapelsestraat 'Kalmthoutsesteenweg']]></name>
+<description><![CDATA[Kapelsestraat 'Kalmthoutsesteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.415597,51.32915,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_320">
+<name><![CDATA[Kapelsestraat 'Pelgrimsstraat']]></name>
+<description><![CDATA[Kapelsestraat 'Pelgrimsstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411789,51.332871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_321">
+<name><![CDATA[Kapelsestraat 'Waterstraat']]></name>
+<description><![CDATA[Kapelsestraat 'Waterstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.406118,51.338491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_322">
+<name><![CDATA[Ertbrandstraat 'Oude Galgenstraat']]></name>
+<description><![CDATA[Ertbrandstraat 'Oude Galgenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.403023,51.342275,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_323">
+<name><![CDATA[Hoek Kalmthoutsesteenweg/ Sint-Jansstraat]]></name>
+<description><![CDATA[Hoek Kalmthoutsesteenweg/ Sint-Jansstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.461608,51.428381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_324">
+<name><![CDATA[Kapelstraat 'Gemeentehuis']]></name>
+<description><![CDATA[Kapelstraat 'Gemeentehuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.472272,51.46489,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_325">
+<name><![CDATA[Stationsstraat 'Kloosterstraat']]></name>
+<description><![CDATA[Stationsstraat 'Kloosterstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.462059,51.465451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_326">
+<name><![CDATA[Spoorwegstraat 'Station']]></name>
+<description><![CDATA[Spoorwegstraat 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451689,51.46246,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_327">
+<name><![CDATA[Moerkantsebaan 'Heemhuis']]></name>
+<description><![CDATA[Moerkantsebaan 'Heemhuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.442307,51.458118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_328">
+<name><![CDATA[Moerkantsebaan 'Essen Hoek']]></name>
+<description><![CDATA[Moerkantsebaan 'Essen Hoek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411161,51.446321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_329">
+<name><![CDATA[Kerk]]></name>
+<description><![CDATA[Kerk]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.37685,51.432615,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_330">
+<name><![CDATA[Huibergseweg 43]]></name>
+<description><![CDATA[Huibergseweg 43]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.330759,51.423644,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_331">
+<name><![CDATA[Huijbergseweg 1'Intertoys']]></name>
+<description><![CDATA[Huijbergseweg 1'Intertoys']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.323635,51.423002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_332">
+<name><![CDATA[Onze Lieve Vrouw ter Duinenlaan thv nr 87]]></name>
+<description><![CDATA[Onze Lieve Vrouw ter Duinenlaan thv nr 87]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.332089,51.39934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_333">
+<name><![CDATA[Markt 11]]></name>
+<description><![CDATA[Markt 11]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.326553,51.395872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_334">
+<name><![CDATA[Burgemeester Voetenstraat/Aanwas]]></name>
+<description><![CDATA[Burgemeester Voetenstraat/Aanwas]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.315192,51.393589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_335">
+<name><![CDATA[Kapelsesteenweg 'Sint-Michielscollege']]></name>
+<description><![CDATA[Kapelsesteenweg 'Sint-Michielscollege']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.458432,51.272172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_336">
+<name><![CDATA[Kapelsesteenweg 'Donk kerk']]></name>
+<description><![CDATA[Kapelsesteenweg 'Donk kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.453261,51.279515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_337">
+<name><![CDATA[Kapelsesteenweg 'Louislei']]></name>
+<description><![CDATA[Kapelsesteenweg 'Louislei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.449356,51.284306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_338">
+<name><![CDATA[Kapelsesteenweg 'Vrijwilligerslei']]></name>
+<description><![CDATA[Kapelsesteenweg 'Vrijwilligerslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.443927,51.292559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_339">
+<name><![CDATA[Kapelsesteenweg 'Boskapellei']]></name>
+<description><![CDATA[Kapelsesteenweg 'Boskapellei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.442146,51.295162,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_340">
+<name><![CDATA[Kapelsesteenweg 'Valkenlaan']]></name>
+<description><![CDATA[Kapelsesteenweg 'Valkenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.439743,51.298463,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_341">
+<name><![CDATA[Antwerpsesteenweg 'Hoogboomsteenweg']]></name>
+<description><![CDATA[Antwerpsesteenweg 'Hoogboomsteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.437264,51.302012,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_342">
+<name><![CDATA[Kapelsesteenweg 'Zilverhoeklaan']]></name>
+<description><![CDATA[Kapelsesteenweg 'Zilverhoeklaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434807,51.305372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_343">
+<name><![CDATA[Hoevensebaan 'Sevenhanslei']]></name>
+<description><![CDATA[Hoevensebaan 'Sevenhanslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.421868,51.312019,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_344">
+<name><![CDATA[Hoevensebaan 'Albertdreef']]></name>
+<description><![CDATA[Hoevensebaan 'Albertdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.418339,51.310885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_345">
+<name><![CDATA[Hoevensebaan 'Parijseweg']]></name>
+<description><![CDATA[Hoevensebaan 'Parijseweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.413629,51.309685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_346">
+<name><![CDATA[Markt 'Markt']]></name>
+<description><![CDATA[Markt 'Markt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.404659,51.306405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_347">
+<name><![CDATA[Hoge Weg 'Mannienlaan']]></name>
+<description><![CDATA[Hoge Weg 'Mannienlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.399981,51.310429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_348">
+<name><![CDATA[Hoge Weg 'Krekelberg']]></name>
+<description><![CDATA[Hoge Weg 'Krekelberg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.395497,51.31452,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_349">
+<name><![CDATA[Hoge Weg 'Rijstraat']]></name>
+<description><![CDATA[Hoge Weg 'Rijstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.390336,51.320166,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_350">
+<name><![CDATA[Hoge Weg '’s Hertogendijk']]></name>
+<description><![CDATA[Hoge Weg '’s Hertogendijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.384124,51.326482,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_351">
+<name><![CDATA[Grote Molenweg 'Molenberg']]></name>
+<description><![CDATA[Grote Molenweg 'Molenberg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.376271,51.332901,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_352">
+<name><![CDATA[Abtsdreef 'Mispelaarlaan']]></name>
+<description><![CDATA[Abtsdreef 'Mispelaarlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.359791,51.334057,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_353">
+<name><![CDATA[Abtsdreef 'Fabriek']]></name>
+<description><![CDATA[Abtsdreef 'Fabriek']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.354985,51.337409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_354">
+<name><![CDATA[Monnikenhofstraat 'Opstal']]></name>
+<description><![CDATA[Monnikenhofstraat 'Opstal']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.340565,51.348788,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_355">
+<name><![CDATA[Monnikenhofstraat 'Viswater']]></name>
+<description><![CDATA[Monnikenhofstraat 'Viswater']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.331596,51.348306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_356">
+<name><![CDATA[Bosstraat 'Kleine Bredestraat']]></name>
+<description><![CDATA[Bosstraat 'Kleine Bredestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.322659,51.346289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_357">
+<name><![CDATA[Solftplaats 'Solftplaats']]></name>
+<description><![CDATA[Solftplaats 'Solftplaats']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.314462,51.34336,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_358">
+<name><![CDATA[Dorpstraat 'Stwg. Zandvliet']]></name>
+<description><![CDATA[Dorpstraat 'Stwg. Zandvliet']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.312938,51.3497,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_359">
+<name><![CDATA[Antwerpsebaan 'Zandweg']]></name>
+<description><![CDATA[Antwerpsebaan 'Zandweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.32312,51.352668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_360">
+<name><![CDATA[Antwerpsebaan 'Antwerpsebaan']]></name>
+<description><![CDATA[Antwerpsebaan 'Antwerpsebaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.32256,51.357792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_361">
+<name><![CDATA[Reinakkerweg/ P&R Reinakker]]></name>
+<description><![CDATA[Reinakkerweg/ P&R Reinakker]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.063468,51.226775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_362">
+<name><![CDATA[Kluizendijkstraat 'Kluizenmolenstraat']]></name>
+<description><![CDATA[Kluizendijkstraat 'Kluizenmolenstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.101834,51.233924,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_363">
+<name><![CDATA[Sint-Gillisstraat 'Kerk']]></name>
+<description><![CDATA[Sint-Gillisstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.089732,51.255738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_364">
+<name><![CDATA[Dorpsstraat 'Kerk']]></name>
+<description><![CDATA[Dorpsstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.175477,51.288923,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_365">
+<name><![CDATA[Verrebroekstraat 'Dorp']]></name>
+<description><![CDATA[Verrebroekstraat 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.188952,51.255416,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_366">
+<name><![CDATA[Verrebroekstraat P&R 'Schoorstraat']]></name>
+<description><![CDATA[Verrebroekstraat P&R 'Schoorstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.189843,51.242011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_367">
+<name><![CDATA[Sint-Rita College]]></name>
+<description><![CDATA[Sint-Rita College]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.435505,51.12968,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_368">
+<name><![CDATA[Carpool E19]]></name>
+<description><![CDATA[Carpool E19]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432104,51.126267,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_369">
+<name><![CDATA[Prins Boudewijnlaan 'Groeningenlei']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Groeningenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.438165,51.140674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_370">
+<name><![CDATA[Prins Boudewijnlaan 'Den Eeckhofstraat']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Den Eeckhofstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.429014,51.161301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_371">
+<name><![CDATA[Prins Boudewijnlaan 'Van Dunlaan']]></name>
+<description><![CDATA[Prins Boudewijnlaan 'Van Dunlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.426128,51.17226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_372">
+<name><![CDATA[Hoek Grote Steenweg/ Fr. Birontlaan]]></name>
+<description><![CDATA[Hoek Grote Steenweg/ Fr. Birontlaan]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.432307,51.181018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_373">
+<name><![CDATA[Grote Steenweg 'Koninklijkelaan']]></name>
+<description><![CDATA[Grote Steenweg 'Koninklijkelaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.426117,51.189242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_374">
+<name><![CDATA[Binnensingel, halte Station-Berchem-Post]]></name>
+<description><![CDATA[Binnensingel, halte Station-Berchem-Post]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.433869,51.20039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_375">
+<name><![CDATA[Plantin en Moretuslei 'Station Oost']]></name>
+<description><![CDATA[Plantin en Moretuslei 'Station Oost']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434748,51.209004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_376">
+<name><![CDATA[Plantin en Moretuslei 'Van Den Nestlei']]></name>
+<description><![CDATA[Plantin en Moretuslei 'Van Den Nestlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.425189,51.210674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_377">
+<name><![CDATA[Van Eycklei 'Loosplaats']]></name>
+<description><![CDATA[Van Eycklei 'Loosplaats']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.416987,51.210325,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_378">
+<name><![CDATA[Van Eycklei 'Edelinckstraat']]></name>
+<description><![CDATA[Van Eycklei 'Edelinckstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.411976,51.21095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_379">
+<name><![CDATA[Quellinstraat 1 (Quellin)]]></name>
+<description><![CDATA[Quellinstraat 1 (Quellin)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.416676,51.21761,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_380">
+<name><![CDATA[Ossystraat 'F. Rooseveltplaats perron 25']]></name>
+<description><![CDATA[Ossystraat 'F. Rooseveltplaats perron 25']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.417818,51.220268,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_381">
+<name><![CDATA[Sint-Jansplein 'Sint-Jansplein']]></name>
+<description><![CDATA[Sint-Jansplein 'Sint-Jansplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.416879,51.225452,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_382">
+<name><![CDATA[Hoek Van De Wervestraat / Ellermanstraat]]></name>
+<description><![CDATA[Hoek Van De Wervestraat / Ellermanstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.414954,51.229832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_383">
+<name><![CDATA[Ellermanstraat 'Ellermanstraat']]></name>
+<description><![CDATA[Ellermanstraat 'Ellermanstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.414954,51.229832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_384">
+<name><![CDATA[Noorderlaan 'Groenendaallaan']]></name>
+<description><![CDATA[Noorderlaan 'Groenendaallaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.420457,51.245581,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_385">
+<name><![CDATA[Noorderlaan 'Santiagostraat']]></name>
+<description><![CDATA[Noorderlaan 'Santiagostraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.420425,51.250144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_386">
+<name><![CDATA[Noorderlaan 'Dublinstraat']]></name>
+<description><![CDATA[Noorderlaan 'Dublinstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.420441,51.25746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_387">
+<name><![CDATA[Dorpsstraat 'Kerk']]></name>
+<description><![CDATA[Dorpsstraat 'Kerk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.679344,51.346996,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_388">
+<name><![CDATA[Heiken 'Leemstraat']]></name>
+<description><![CDATA[Heiken 'Leemstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.660563,51.350792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_389">
+<name><![CDATA[Gasthuisstraat 'Biest']]></name>
+<description><![CDATA[Gasthuisstraat 'Biest']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.639299,51.350363,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_390">
+<name><![CDATA[Schotensteenweg 'Sternhoven']]></name>
+<description><![CDATA[Schotensteenweg 'Sternhoven']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.618764,51.340143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_391">
+<name><![CDATA[Schotensteenweg 'Schippersdreef']]></name>
+<description><![CDATA[Schotensteenweg 'Schippersdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.597199,51.324283,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_392">
+<name><![CDATA[Schotensteenweg 'Bareeltje']]></name>
+<description><![CDATA[Schotensteenweg 'Bareeltje']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.585869,51.316559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_393">
+<name><![CDATA[Eikenlei 'Kruispunt']]></name>
+<description><![CDATA[Eikenlei 'Kruispunt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.567244,51.304004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_394">
+<name><![CDATA[Eikenlei 'Sluisvijfbaan']]></name>
+<description><![CDATA[Eikenlei 'Sluisvijfbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.556687,51.299134,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_395">
+<name><![CDATA[Brechtsebaan 'Spaans Wijnhuis']]></name>
+<description><![CDATA[Brechtsebaan 'Spaans Wijnhuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.546194,51.293593,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_396">
+<name><![CDATA[Brechtsebaan 'Molenbaan']]></name>
+<description><![CDATA[Brechtsebaan 'Molenbaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.518642,51.271461,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_397">
+<name><![CDATA[Kopstraat 'Gemeentelijk Sportpark']]></name>
+<description><![CDATA[Kopstraat 'Gemeentelijk Sportpark']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.506626,51.263123,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_398">
+<name><![CDATA[Kopstraat 'J. Jennesstraat']]></name>
+<description><![CDATA[Kopstraat 'J. Jennesstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.502656,51.260948,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_399">
+<name><![CDATA[Kopstraat 'Thuretstraat']]></name>
+<description><![CDATA[Kopstraat 'Thuretstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.497356,51.257484,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_400">
+<name><![CDATA[Hoek R.W.v. Havrelaan/ Borkelstraat]]></name>
+<description><![CDATA[Hoek R.W.v. Havrelaan/ Borkelstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.486113,51.25234,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_401">
+<name><![CDATA[Eethuisstraat 'Calesbergdreef']]></name>
+<description><![CDATA[Eethuisstraat 'Calesbergdreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.464655,51.24999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_402">
+<name><![CDATA[Eethuisstraat 'Molenlei']]></name>
+<description><![CDATA[Eethuisstraat 'Molenlei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.45972,51.247827,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_403">
+<name><![CDATA[Dr. M. Timmermanslaan 'Oudebareel']]></name>
+<description><![CDATA[Dr. M. Timmermanslaan 'Oudebareel']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.451362,51.248536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_404">
+<name><![CDATA[Kroonplein 'Kroonplein']]></name>
+<description><![CDATA[Kroonplein 'Kroonplein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.449141,51.251534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_405">
+<name><![CDATA[Maantjessteenweg 'Laaglandlaan']]></name>
+<description><![CDATA[Maantjessteenweg 'Laaglandlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.446652,51.254895,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_406">
+<name><![CDATA[Maantjessteenweg 'F. Adriaenssensstraat']]></name>
+<description><![CDATA[Maantjessteenweg 'F. Adriaenssensstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.440563,51.255241,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_407">
+<name><![CDATA[Victor govaerslaan 'Rietschoorvelden']]></name>
+<description><![CDATA[Victor govaerslaan 'Rietschoorvelden']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.434378,51.256248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_408">
+<name><![CDATA[De Beukelaerlaan 'F. Verbieststraat']]></name>
+<description><![CDATA[De Beukelaerlaan 'F. Verbieststraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.417936,51.272958,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_409">
+<name><![CDATA[Markt 'Markt']]></name>
+<description><![CDATA[Markt 'Markt']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.418752,51.277438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_410">
+<name><![CDATA[Kloosterstraat 'Boerendijk']]></name>
+<description><![CDATA[Kloosterstraat 'Boerendijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.416359,51.283518,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_411">
+<name><![CDATA[Kloosterstraat 'Leugenberg']]></name>
+<description><![CDATA[Kloosterstraat 'Leugenberg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.412014,51.293358,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_412">
+<name><![CDATA[Brasschaatsebaan 'Gemeentehuis']]></name>
+<description><![CDATA[Brasschaatsebaan 'Gemeentehuis']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.577544,51.24001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_413">
+<name><![CDATA[Turnhoutsebaan 'Vaartdijk']]></name>
+<description><![CDATA[Turnhoutsebaan 'Vaartdijk']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.529253,51.228448,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_414">
+<name><![CDATA[Turnhoutsebaan 'Dorp']]></name>
+<description><![CDATA[Turnhoutsebaan 'Dorp']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.521925,51.227501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_415">
+<name><![CDATA[Turnhoutsebaan 'Fortveldstraat']]></name>
+<description><![CDATA[Turnhoutsebaan 'Fortveldstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.511873,51.225962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_416">
+<name><![CDATA[Turnhoutsebaan 'Schijnbeemdenlaan']]></name>
+<description><![CDATA[Turnhoutsebaan 'Schijnbeemdenlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.506959,51.225136,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_417">
+<name><![CDATA[Frans Beirenslaan 'Wenigerstraat']]></name>
+<description><![CDATA[Frans Beirenslaan 'Wenigerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.481295,51.197613,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_418">
+<name><![CDATA[Borsbeeksesteenweg 'Fort III-straat']]></name>
+<description><![CDATA[Borsbeeksesteenweg 'Fort III-straat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.473056,51.194662,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_419">
+<name><![CDATA[Boekenberglei 'Jozef Verboven']]></name>
+<description><![CDATA[Boekenberglei 'Jozef Verboven']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.460235,51.200645,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_420">
+<name><![CDATA[Hoek Dascottelei/ Van Den Hautelei]]></name>
+<description><![CDATA[Hoek Dascottelei/ Van Den Hautelei]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.467133,51.202517,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_421">
+<name><![CDATA[Florent Pauwels rto AZ Monica]]></name>
+<description><![CDATA[Florent Pauwels rto AZ Monica]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.471151,51.205421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_422">
+<name><![CDATA[Ruggeveldlaan 'Burgemeester De Boeylaan']]></name>
+<description><![CDATA[Ruggeveldlaan 'Burgemeester De Boeylaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.474461,51.209693,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_423">
+<name><![CDATA[Ruggeveldlaan 'S. De Grootestraat']]></name>
+<description><![CDATA[Ruggeveldlaan 'S. De Grootestraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.480566,51.220627,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_424">
+<name><![CDATA[Ruggeveldlaan 'Ruggeveldlaan']]></name>
+<description><![CDATA[Ruggeveldlaan 'Ruggeveldlaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.479171,51.231593,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_425">
+<name><![CDATA[Terheydelaan 'Antwerp stadion']]></name>
+<description><![CDATA[Terheydelaan 'Antwerp stadion']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.469311,51.228583,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_426">
+<name><![CDATA[Confortalei 'J. Scheurweghstraat']]></name>
+<description><![CDATA[Confortalei 'J. Scheurweghstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.458185,51.226943,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_427">
+<name><![CDATA[Confortalei 'Lakborslei']]></name>
+<description><![CDATA[Confortalei 'Lakborslei']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.456662,51.230612,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_428">
+<name><![CDATA[Groenendaallaan 'Bredabaan']]></name>
+<description><![CDATA[Groenendaallaan 'Bredabaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.436631,51.240735,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_429">
+<name><![CDATA[Groenendaallaan 'Lambrechtshoeken']]></name>
+<description><![CDATA[Groenendaallaan 'Lambrechtshoeken']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.431245,51.242931,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_430">
+<name><![CDATA[Burgemeester Achiel Heymanstraat 'Kerkstraat']]></name>
+<description><![CDATA[Burgemeester Achiel Heymanstraat 'Kerkstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.176861,51.113491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_431">
+<name><![CDATA[Sint-Amelbergalaan 'Sint-Amelbergalaan']]></name>
+<description><![CDATA[Sint-Amelbergalaan 'Sint-Amelbergalaan']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.202288,51.126368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_432">
+<name><![CDATA[Hookamerstraat 'Grote Dweersstraat']]></name>
+<description><![CDATA[Hookamerstraat 'Grote Dweersstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.191903,51.132185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_433">
+<name><![CDATA[Parklaan 'Atheneum/ Zwembad']]></name>
+<description><![CDATA[Parklaan 'Atheneum/ Zwembad']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.152421,51.157883,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_434">
+<name><![CDATA[Moerlandstraat 'AZ Maria Middelares']]></name>
+<description><![CDATA[Moerlandstraat 'AZ Maria Middelares']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.150811,51.160776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_435">
+<name><![CDATA[Heidebaan 'Ster']]></name>
+<description><![CDATA[Heidebaan 'Ster']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.191753,51.177419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_436">
+<name><![CDATA[Grote Baan 'Kazerne Westakkers']]></name>
+<description><![CDATA[Grote Baan 'Kazerne Westakkers']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.202632,51.18783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_437">
+<name><![CDATA[Albert Panisstraat 'Vijfstraten']]></name>
+<description><![CDATA[Albert Panisstraat 'Vijfstraten']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.242243,51.206346,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_438">
+<name><![CDATA[Oude Zandstraat 'AZ Middelares']]></name>
+<description><![CDATA[Oude Zandstraat 'AZ Middelares']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.250633,51.210459,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_439">
+<name><![CDATA[Vesten 'Gravendreef']]></name>
+<description><![CDATA[Vesten 'Gravendreef']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.259645,51.21347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_440">
+<name><![CDATA[Vesten 'Parein']]></name>
+<description><![CDATA[Vesten 'Parein']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.271597,51.217785,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_441">
+<name><![CDATA[Vesten 'Ijzertstraat']]></name>
+<description><![CDATA[Vesten 'Ijzertstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.277498,51.219223,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_442">
+<name><![CDATA[Hoek Schoolstraat/ Dambrugstraat]]></name>
+<description><![CDATA[Hoek Schoolstraat/ Dambrugstraat]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.278828,51.22355,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_443">
+<name><![CDATA[Melseledijk thv 93]]></name>
+<description><![CDATA[Melseledijk thv 93]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.27061,51.232567,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_444">
+<name><![CDATA[Jozef Wauterslaan 'Station']]></name>
+<description><![CDATA[Jozef Wauterslaan 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.3371,51.111828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_445">
+<name><![CDATA[Antwerpsestraat 'Beekstraat']]></name>
+<description><![CDATA[Antwerpsestraat 'Beekstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.332443,51.115519,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_446">
+<name><![CDATA[Fabiolalaan 'Pepperstraat']]></name>
+<description><![CDATA[Fabiolalaan 'Pepperstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.335448,51.126933,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_447">
+<name><![CDATA[Sint-Bernardsesteenweg 'Bosstraat']]></name>
+<description><![CDATA[Sint-Bernardsesteenweg 'Bosstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.335426,51.132394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_448">
+<name><![CDATA[Delvauxstraat 'Station']]></name>
+<description><![CDATA[Delvauxstraat 'Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.337593,51.136204,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_449">
+<name><![CDATA[Boomsesteenweg 'Kontichtsesteenweg']]></name>
+<description><![CDATA[Boomsesteenweg 'Kontichtsesteenweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.379886,51.143292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_450">
+<name><![CDATA[Boomsesteenweg 'Valkstraat']]></name>
+<description><![CDATA[Boomsesteenweg 'Valkstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.386887,51.16848,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_451">
+<name><![CDATA[Krijgsbaan 'Schoonselhof']]></name>
+<description><![CDATA[Krijgsbaan 'Schoonselhof']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.361157,51.168897,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_452">
+<name><![CDATA[Oudestraat 55 (dagkribbe Patrache)]]></name>
+<description><![CDATA[Oudestraat 55 (dagkribbe Patrache)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.353204,51.177002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_453">
+<name><![CDATA[Steynstraat 'Krekelstraat']]></name>
+<description><![CDATA[Steynstraat 'Krekelstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.358118,51.180406,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_454">
+<name><![CDATA[Weerstandlaan 'Krugerstraat']]></name>
+<description><![CDATA[Weerstandlaan 'Krugerstraat']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.368149,51.185053,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_455">
+<name><![CDATA[E. Vloorstraat 'Lageweg']]></name>
+<description><![CDATA[E. Vloorstraat 'Lageweg']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.369361,51.190338,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_456">
+<name><![CDATA[E. Vloorstraat 'Stedelijke Sporthal']]></name>
+<description><![CDATA[E. Vloorstraat 'Stedelijke Sporthal']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.377601,51.193781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_457">
+<name><![CDATA[Grobbendonk, Toekomstlaan, P&R 'Wolfstee-Station']]></name>
+<description><![CDATA[Grobbendonk, Toekomstlaan, P&R 'Wolfstee-Station']]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.785919,51.168365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_458">
+<name><![CDATA[Liersebaan 'Kerkstraat' (Richting E313)]]></name>
+<description><![CDATA[Liersebaan 'Kerkstraat' (Richting E313)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.643011,51.199301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="po_459">
+<name><![CDATA[P&R Wommelgem (achteraan de parking)]]></name>
+<description><![CDATA[P&R Wommelgem (achteraan de parking)]]></description>
+<image_url>http://live.synctrace.com/icons/busstopbluesmall.png</image_url>
+<visibility>1</visibility>
+<styleUrl>#HalteIcon</styleUrl>
+<Point>
+<tessellate>1</tessellate>
+<coordinates>4.492743,51.212321,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
